@@ -1,0 +1,27 @@
+.container{
+justify-content: center;
+padding: 0px 20px 0px 20px;
+margin: 0px auto;
+background-color: rgb(92, 34, 146);
+color: rgb(1, 1, 24);
+}.navbar{
+justify-content: center;
+padding: 20px 40px 20px 40px;
+margin: 0px auto;
+}.navlist{ 
+display:block;
+justify-content: center;
+}
+ul li a{
+display: block;
+justify-content: center;
+color: rgb(134, 20, 240);
+text-align: center;
+}
+a:hover{
+background-color: rgb(162, 76, 202);
+color:floralwhite;
+border-radius: 10px solid black;
+text-decoration: none;
+padding: 10px 30px 10px 30px;
+}
